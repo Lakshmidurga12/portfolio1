@@ -1,0 +1,65 @@
+body{
+    border: 2px solid #000000;
+    border-spacing: 1px;
+    
+    
+    text-align: center;
+}
+header{
+    background-color: black;
+    height :100px;
+    padding:20px;
+}
+h1{
+    color:aliceblue;
+    
+}
+
+ul li{
+display: inline;
+color: rgb(240, 166, 76);
+padding: 20px;
+}
+ul li a{
+    color: bisque;
+    text-decoration: none;
+}
+#home img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+
+}
+#Portfolio {
+    background-color: blanchedalmond;
+    padding:10px;
+
+
+}
+#Skills ul li{
+    color: black;
+}
+footer{
+    background-color: black;
+    height :100px;
+    padding:20px;
+}
+footer p{
+    color: white;
+}
+#Portfolio
+{
+    background-image: url("bb.jpg");
+}
+#About{
+    background-image: url("bj.png");
+}
+#Skills
+{
+    background-image: url("jk.jpeg");
+}
+#home{
+    background-image: url("R.jpeg");
+}
+
+
